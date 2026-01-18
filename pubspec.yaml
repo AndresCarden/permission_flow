@@ -2,9 +2,9 @@ name: permission_flow
 description: A unified permission request flow for Flutter on Android and iOS.
 version: 1.0.0
 
-homepage: https://github.com/TU_USUARIO/permission_flow
-repository: https://github.com/TU_USUARIO/permission_flow
-issue_tracker: https://github.com/TU_USUARIO/permission_flow/issues
+homepage: https://github.com/AndresCarden/permission_flow
+repository: https://github.com/AndresCarden/permission_flow.git
+issue_tracker: https://github.com/AndresCarden/permission_flow/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
