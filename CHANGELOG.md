@@ -1,3 +1,7 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- Initial release
+- Unified permission flow for Android & iOS
+- Built-in rationale dialogs
+- Automatic redirect to system settings
+- Supports common permissions
